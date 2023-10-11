@@ -8,15 +8,15 @@ Consiste em verificar as variáveis de ambiente "frase1", "frase2" e "frase3" e 
 
 
 ## ❓ Quer saber mais sobre ?
-repositório kubernetes em que utiliza este código:(em andamento)
+repositório kubernetes em que utiliza este código:(em andamento)<br>
 
 
-imagem pública do código: pedropinguelli/py:1.0
+imagem pública do código: pedropinguelli/py:1.0<br>
 
 
-Github Actions (Documentação): https://docs.github.com/pt/actions
+Github Actions (Documentação): https://docs.github.com/pt/actions<br>
 
 
-Kubernetes (Documentação): https://kubernetes.io/pt-br/docs/home/
+Kubernetes (Documentação): https://kubernetes.io/pt-br/docs/home/<br>
 
 
