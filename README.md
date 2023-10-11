@@ -9,10 +9,14 @@ Consiste em verificar as variáveis de ambiente "frase1", "frase2" e "frase3" e 
 
 ## ❓ Quer saber mais sobre ?
 repositório kubernetes em que utiliza este código:(em andamento)
+
+
 imagem pública do código: pedropinguelli/py:1.0
 
 
 Github Actions (Documentação): https://docs.github.com/pt/actions
+
+
 Kubernetes (Documentação): https://kubernetes.io/pt-br/docs/home/
 
 
