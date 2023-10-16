@@ -4,9 +4,7 @@ Consiste em verificar as variáveis de ambiente "frase1", "frase2" e "frase3" e 
 ## ℹ️ Importante:
 Lembre-se de alterar/criar o seu user e pwd secrets quando der o fork da aplicação.
 
-![image](https://github.com/pedborges/pythonAPI/assets/110577886/eb9baf6e-0ff3-4ddf-9e03-34889375a573)
-
-
+![Screenschot2](https://github.com/pedborges/pythonAPI/assets/110577886/99db4c24-66c0-4a21-9cd3-0fc56cd7128c)
 
 <h3>HTTP-200</h3>
 
