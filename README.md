@@ -1,6 +1,10 @@
 ## <h1>pythonAPI</h1>
 
 Consiste em verificar as variáveis de ambiente "frase1", "frase2" e "frase3" e devolve-las em tela a partir do route "/".
+## ℹ️ Importante:
+Lembre-se de alterar/criar o seu user e pwd secrets quando der o fork da aplicação.
+
+
 <h3>HTTP-200</h3>
 
 ![Screenshot_2](https://github.com/pedborges/pythonAPI/assets/110577886/6ed65c86-0d25-4e5e-a685-6e4d8544d454)
